@@ -31,7 +31,7 @@ setup(
     author_email='rohin.tn@gmail.com',
     license='GNU General Public License v3.0',
     packages = ['outreachTools'],
-    install_requires = ['numpy']
+    install_requires = ['numpy'],
     #tests_require = ['pytest', 'pytest-cov'],
     classifiers=[ # HAVE TO FIX ALL THIS
         'Development Status :: 5 - Production/Stable',
