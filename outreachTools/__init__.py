@@ -1,2 +1,1 @@
-def tracking():
-    print ('Initializing tracking')
+from outreachTools import *
