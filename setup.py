@@ -26,7 +26,7 @@ setup(
     name='outreachTools',
     version="0.1",
     description='Simple tools for accessing particle physics data for outreach and education',
-    url='https://github.com/rotiyan/outreachTools.git'
+    url='https://github.com/rotiyan/outreachTools.git',
     author='R Narayan',
     author_email='rohin.tn@gmail.com',
     license='GNU General Public License v3.0',
